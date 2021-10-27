@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi 👋 My name is Pasha
+- 🌱 I’m currently learning Python, Django, DRF, REST API, and many else with Yandex
+- :deciduous_tree: I've already learned Biotechology😄
+- :leaves: How to reach me: Telegram (https://t.me/PashaZr)
 
 <!--
 **Palashnenkoff/Palashnenkoff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
